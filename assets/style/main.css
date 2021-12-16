@@ -61,7 +61,7 @@
 
 body .header {
   background: #0D092E;
-  background-image: url("/assets/images/header.png");
+  background-image: url("https://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content-Crypto/header-bg-crypto.png");
   background-position: center center;
   width: 100%;
   top: 0;
@@ -324,7 +324,7 @@ body .testimonial {
   padding-top: 135px;
   padding-bottom: 95px;
   background: #0D092E;
-  background-image: url("/assets/images/testi-bg.png");
+  background-image: url("https://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content-Crypto/testi-bg.png");
 }
 
 @media screen and (max-width: 768px) {
@@ -344,7 +344,7 @@ body .portofolio {
   padding-top: 115px;
   padding-bottom: 115px;
   background: #0D092E;
-  background-image: url("/assets/images/porto-bg.png");
+  background-image: url("https://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content-Crypto/porto-bg.png");
 }
 
 body .portofolio .example::-webkit-scrollbar {
@@ -414,7 +414,7 @@ body .featured {
   padding-top: 80px;
   padding-bottom: 80px;
   background: #0D092E;
-  background-image: url("/assets/images/porto-bg.png");
+  background-image: url("https://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content-Crypto/porto-bg.png");
 }
 
 body .featured .texts .headline {
@@ -499,7 +499,7 @@ body .start {
   padding-top: 145px;
   padding-bottom: 145px;
   background: #0D092E;
-  background-image: url("/assets/images/bg-start.png");
+  background-image: url("https://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content-Crypto/bg-start.png");
 }
 
 @media screen and (max-width: 768px) {
@@ -555,7 +555,7 @@ body .start .btn-collab {
 
 body footer {
   background: #0D092E;
-  background-image: url("/assets/images/footer-background.png");
+  background-image: url("https://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content-Crypto/footer-background.png");
   padding-top: 80px;
   padding-bottom: 100px;
 }
